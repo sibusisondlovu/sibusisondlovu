@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sibusiso Ndlovu</h1>
 <h3 align="center">A passionate full stack developer from Pretoria, South Africa</h3>
 
-- 🔭 I’m currently working on **TechPulse**
+- 🔭 I’m currently working on **MedicNest**
 
 - 👨‍💻 All of my projects are available at [https://www.sbundlovu.co.za](https://www.sbundlovu.co.za)
 
